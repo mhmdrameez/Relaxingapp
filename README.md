@@ -1,4 +1,4 @@
-# Relaxingapp
+# Relaxingapp(PWA)
 This Relaxing app created by react
 
 
